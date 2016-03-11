@@ -1,0 +1,2 @@
+saferegex is a tool for testing regular expressions for ReDoS vulnerabilities.
+In contrast to similar tools, saferegex doesn't use plain fuzzing to detect vulnerabilites but uses an approach similar to model checking. This makes it much more effective than plain fuzzers.
